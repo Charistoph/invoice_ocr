@@ -3,5 +3,7 @@
 *.csv
 *.pdf
 .ipynb_checkpoints
+*.pyc
 
 LT_LSTM_CRF
+models
