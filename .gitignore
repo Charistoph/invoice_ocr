@@ -1,4 +1,7 @@
 *.png
 *.json
 *.csv
+*.pdf
 .ipynb_checkpoints
+
+LT_LSTM_CRF
