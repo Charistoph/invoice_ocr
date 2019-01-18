@@ -8,3 +8,6 @@
 LT_LSTM_CRF
 models
 background_img
+logs
+
+.DS_Store
