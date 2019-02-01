@@ -9,5 +9,6 @@ LT_LSTM_CRF
 models
 background_img
 logs
+wandb
 
 .DS_Store
