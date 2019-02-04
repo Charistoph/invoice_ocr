@@ -1,4 +1,5 @@
 *.png
+*.jpg
 *.json
 *.csv
 *.pdf
@@ -8,6 +9,7 @@
 LT_LSTM_CRF
 models
 background_img
+real_rotated_images
 logs
 wandb
 
