@@ -12,5 +12,7 @@ background_img
 real_rotated_images
 logs
 wandb
+open_cv_test
+invoice_nlp_data
 
 .DS_Store
